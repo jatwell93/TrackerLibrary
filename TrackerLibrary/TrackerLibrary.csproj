@@ -120,6 +120,7 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="MatchupEntryModel.cs" />
     <Compile Include="MatchupModel.cs" />
     <Compile Include="PersonModel.cs" />
     <Compile Include="PrizeModel.cs" />
