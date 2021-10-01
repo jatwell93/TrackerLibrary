@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1321
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerLibrary", "TrackerLibrary\TrackerLibrary.csproj", "{11DF2326-C973-4BAA-817A-0BA0C0CD3CB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerUI", "TrackerUI\TrackerUI.csproj", "{E4A0CCF6-6FBA-4F82-A948-50322804CE26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,26 @@ Global
 		{11DF2326-C973-4BAA-817A-0BA0C0CD3CB1}.Release|x64.Build.0 = Release|x64
 		{11DF2326-C973-4BAA-817A-0BA0C0CD3CB1}.Release|x86.ActiveCfg = Release|x86
 		{11DF2326-C973-4BAA-817A-0BA0C0CD3CB1}.Release|x86.Build.0 = Release|x86
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|ARM.Build.0 = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|x64.Build.0 = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Debug|x86.Build.0 = Debug|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|ARM.ActiveCfg = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|ARM.Build.0 = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|ARM64.Build.0 = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|x64.ActiveCfg = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|x64.Build.0 = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|x86.ActiveCfg = Release|Any CPU
+		{E4A0CCF6-6FBA-4F82-A948-50322804CE26}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
