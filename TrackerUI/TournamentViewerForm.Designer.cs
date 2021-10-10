@@ -188,7 +188,7 @@
             this.scoreButton.Name = "scoreButton";
             this.scoreButton.Size = new System.Drawing.Size(139, 46);
             this.scoreButton.TabIndex = 13;
-            this.scoreButton.Text = "button1";
+            this.scoreButton.Text = "Score";
             this.scoreButton.UseVisualStyleBackColor = true;
             // 
             // TournamentViewerForm
